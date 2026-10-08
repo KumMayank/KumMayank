@@ -1,12 +1,15 @@
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
 
-<p align="center">
-  <img
-    src="./assets/profile-banner.svg"
-    width="80%"
-    alt="Hey! I'm Mayank - Java Full Stack Developer"
-  />
-</p>
+<div align="center">
+
+<img
+  src="./assets/profile-banner.png"
+  width="80%"
+  alt="Hey! I'm Mayank - Java Full Stack Developer"
+/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
 
