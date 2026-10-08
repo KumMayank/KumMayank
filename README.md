@@ -1,18 +1,349 @@
-# 💫 About Me:
-Hi, I am Mayank Kumar | Java Full Stack Developer with 3+ years of experience<br>Backend: Java, Spring Boot, Microservices, REST APIs<br>Frontend: React.js, JavaScript, HTML, CSS, Tailwind CSS<br>Databases: MySQL, PostgreSQL, MongoDB<br>Cloud & DevOps: AWS, Docker, Kubernetes, Git/GitHub, CI/CD<br>Tools & Technologies: Kafka, Redis, Maven, JUnit, Mockito
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mayank-kumar-772156193) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MayankKr0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@codewithgandhi) 
+<a href="https://github.com/KumMayank">
+  <img width="80%" alt="Hello" src="./assets/profile.png"/>
+</a>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KumMayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KumMayank&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KumMayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9418F7&center=true&vCenter=true&width=800&height=60&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+React.js;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+%26+Production-Ready+Applications" alt="Typing Animation" />
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 👋 About Me
+
+Hi, I'm **Mayank Kumar**, a **Java Full Stack Developer with 3+ years of experience** building modern, scalable and production-ready web applications.
+
+* 🔭 Currently focused on **Java, Spring Boot, Microservices & React.js**
+* 🌱 Exploring **System Design, Cloud, DevOps, Kafka & AI/GenAI**
+* 💻 Experienced in developing **REST APIs, responsive UIs and distributed applications**
+* ☁️ Working with **AWS, Docker, Kubernetes and CI/CD**
+* 🗄️ Comfortable with **MySQL, PostgreSQL and MongoDB**
+* ⚡ Interested in **scalable backend systems, microservices and cloud-native applications**
+* 🚀 Always learning, building and improving
+* ⭐ Check out my repositories and feel free to connect!
 
 ---
-[![](https://komarev.com/ghpvc/?username=KumMayank&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 Tech Stack
+
+### 🚀 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css" />
+
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate,maven" />
+
+</p>
+
+**Java • Spring Boot • Spring MVC • Spring Data JPA • Hibernate • REST APIs • Microservices • Node.js • Express.js • Maven**
+
+### 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,angular" />
+
+</p>
+
+**React.js • Redux • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap**
+
+### 🗄️ Databases & Messaging
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" />
+
+</p>
+
+**MySQL • PostgreSQL • MongoDB • Redis • Apache Kafka**
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,nginx" />
+
+</p>
+
+**AWS • Docker • Kubernetes • Jenkins • GitHub Actions • CI/CD • Nginx**
+
+### 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira,postman,idea,vscode" />
+
+</p>
+
+**Git • GitHub • Bitbucket • Jira • Postman • IntelliJ IDEA • VS Code**
+
+### 🧪 Testing & Monitoring
+
+**JUnit • Mockito • Jest • Swagger/OpenAPI • SonarQube • Grafana • Splunk**
+
+---
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🏗️ What I Build
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                Full Stack Applications              │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  Frontend                                           │
+│  React.js • Redux • JavaScript • Tailwind CSS      │
+│                       │                             │
+│                       ▼                             │
+│  API Layer                                          │
+│  REST APIs • Authentication • Authorization        │
+│                       │                             │
+│                       ▼                             │
+│  Backend                                            │
+│  Java • Spring Boot • Microservices                │
+│                       │                             │
+│             ┌─────────┴─────────┐                  │
+│             ▼                   ▼                  │
+│        Databases             Messaging             │
+│  MySQL • PostgreSQL       Kafka • Redis             │
+│  MongoDB                                           │
+│                                                     │
+│                       │                             │
+│                       ▼                             │
+│  Cloud & Infrastructure                            │
+│  AWS • Docker • Kubernetes • CI/CD                 │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📌 Featured Areas
+
+### ☕ Java & Spring Boot
+
+* Core Java
+* OOP
+* Collections
+* Exception Handling
+* Multithreading
+* Java 8+
+* Spring IoC & Dependency Injection
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* Hibernate
+* REST API Development
+
+### 🧩 Microservices
+
+* Service-to-service communication
+* API Gateway
+* Service Discovery
+* Configuration Management
+* Resilience & Fault Tolerance
+* Distributed Systems
+* Kafka-based communication
+* Dockerized services
+* Kubernetes deployment
+
+### ⚛️ React.js
+
+* Functional Components
+* Hooks
+* Context API
+* Redux / Redux Toolkit
+* React Query
+* REST API integration
+* Responsive UI
+* Performance optimization
+* Component-based architecture
+
+### ☁️ Cloud & DevOps
+
+* AWS
+* Docker
+* Kubernetes
+* CI/CD
+* GitHub Actions
+* Jenkins
+* Nginx
+* Containerized deployments
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KumMayank&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumMayank&layout=compact&theme=radical&hide_border=false" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=KumMayank&theme=radical&hide_border=false" />
+
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KumMayank&theme=react-dark&hide_border=false" />
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 💬 Real-Time Chat Application
+
+**React.js • Node.js • Express.js • Socket.io • MongoDB**
+
+Real-time communication platform with instant messaging and WebSocket-based communication.
+
+### 📁 Google Drive Clone
+
+**React.js • Spring Boot • MySQL**
+
+Cloud-style file management application with frontend and Spring Boot backend integration.
+
+### 🏢 Enterprise Web Applications
+
+**React.js • Redux • REST APIs • AWS**
+
+Worked on enterprise applications involving responsive interfaces, role-based access, file management and API integration.
+
+### 🤖 AI / RAG Projects
+
+**LLM • RAG • Embeddings • Vector Databases • PostgreSQL/pgvector**
+
+Exploring modern AI application architectures including Retrieval-Augmented Generation, embeddings and vector search.
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Java
+ └── Spring Boot
+      ├── Microservices
+      ├── Spring Cloud
+      ├── Kafka
+      ├── Redis
+      └── System Design
+
+Cloud
+ ├── AWS
+ ├── Docker
+ ├── Kubernetes
+ └── CI/CD
+
+AI
+ ├── LLMs
+ ├── RAG
+ ├── Embeddings
+ └── Vector Databases
+```
+
+---
+
+## 🎯 Career Focus
+
+I'm interested in opportunities involving:
+
+* ☕ Java Backend Development
+* 🚀 Java Full Stack Development
+* 🌐 Spring Boot & Microservices
+* ⚛️ React.js
+* ☁️ AWS & Cloud Engineering
+* 🐳 Docker & Kubernetes
+* 📨 Kafka & Event-Driven Architecture
+* 🏗️ System Design
+* 🤖 AI / GenAI Application Development
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/KumMayank">
+<img src="https://img.shields.io/badge/GitHub-KumMayank-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/mayank-kumar01">
+<img src="https://img.shields.io/badge/LinkedIn-Mayank%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://x.com/MayankKr0">
+<img src="https://img.shields.io/badge/X-MayankKr0-000000?style=for-the-badge&logo=x" />
+</a>
+
+</p>
+
+---
+
+## 💬 Ask Me About
+
+```text
+Java
+Spring Boot
+Microservices
+React.js
+REST APIs
+MySQL
+PostgreSQL
+MongoDB
+Kafka
+Redis
+AWS
+Docker
+Kubernetes
+CI/CD
+System Design
+RAG & GenAI
+```
+
+---
+
+## ⚡ Fun Fact
+
+> **Code → Learn → Build → Break → Debug → Improve → Repeat 🚀**
+
+---
+
+<div align="center">
+
+### ⭐ If you find my repositories useful, consider giving them a star!
+
+### Thanks for visiting my profile! 🙌
+
+<img src="https://komarev.com/ghpvc/?username=KumMayank&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
