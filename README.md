@@ -17,8 +17,6 @@ Hi, I am Mayank Kumar | Java Full Stack Developer with 3+ years of experience<br
   />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
-
 
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 
