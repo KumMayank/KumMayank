@@ -1,70 +1,90 @@
-# 💫 About Me:
-Hi, I am Mayank Kumar | Java Full Stack Developer with 3+ years of experience<br>Backend: Java, Spring Boot, Microservices, REST APIs<br>Frontend: React.js, JavaScript, HTML, CSS, Tailwind CSS<br>Databases: MySQL, PostgreSQL, MongoDB<br>Cloud & DevOps: AWS, Docker, Kubernetes, Git/GitHub, CI/CD<br>Tools & Technologies: Kafka, Redis, Maven, JUnit, Mockito
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mayank-kumar-772156193) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MayankKr0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@codewithgandhi) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
-
+<!-- Header banner -->
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    width="450"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0A66C2&height=180&section=header&text=Mayank%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=60" alt="Mayank Kumar banner" width="100%" />
 </p>
 
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/KumMayank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+backends+with+Spring+Boot;Crafting+clean+UIs+with+React;Shipping+with+Docker%2C+Kubernetes+%26+CI%2FCD;Exploring+GenAI%2C+RAG+%26+LLM+apps" alt="Typing animation" />
+  </a>
+</p>
 
-<!-- ========================= GITHUB ANALYTICS ========================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KumMayank&label=Profile%20views&color=0A66C2&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/KumMayank?style=flat-square&logo=github&color=181717" alt="Followers" />
+</p>
 
+---
 
-<h2> GitHub Analytics</h2>
+## 👋 About Me
+
+I'm a **Java Full Stack Developer with 3+ years of experience** designing and shipping production web applications, from REST APIs and microservices to responsive React frontends and cloud deployments.
+
+- **Backend:** Java, Spring Boot, Microservices, REST APIs
+- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
+- **Data:** MySQL, PostgreSQL, MongoDB
+- **DevOps:** AWS, Docker, Kubernetes, CI/CD
+- **Testing:** JUnit, Mockito, Jest
+- **Currently exploring:** Apache Kafka, Redis, GenAI, RAG & LLM applications
+- If you find my repositories useful, a star is always appreciated!
+
+---
+
+## Tech Stack
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumMayank&layout=compact&theme=radical&hide_border=false"
-        width="400"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=KumMayank&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
-        width="500"
-      />
-    </td>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases & Messaging</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" alt="Data" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github" alt="DevOps" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Testing & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,postman,idea,vscode,linux" alt="Tools" /></td>
   </tr>
 </table>
 
-<br/>
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=KumMayank&theme=radical&hide_border=false"
-    width="700"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KumMayank&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumMayank&layout=compact&theme=radical&hide_border=true" height="170" alt="Top languages" />
 </p>
-
-<br/>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KumMayank&theme=react-dark&hide_border=false"
-    width="95%"
-  />
+  <img src="https://streak-stats.demolab.com/?user=KumMayank&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KumMayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KumMayank&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KumMayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=KumMayank&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-kumar01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/KumMayank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/MayankKr0"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <!-- Optional: add a portfolio or email badge
+  <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  -->
+</p>
+
+<p align="center"><i>Thanks for stopping by! 🙂</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00D9FF&height=100&section=footer" alt="Footer wave" width="100%" />
+</p>
