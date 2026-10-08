@@ -1,4 +1,5 @@
 <img src="./assets/divider.svg" width="100%" />
+
 <div align="center">
 
 <a href="https://github.com/KumMayank">
@@ -6,6 +7,10 @@
 </a>
 
 <br/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9418F7&center=true&vCenter=true&width=800&height=60&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+React.js;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+%26+Production-Ready+Applications" alt="Typing Animation" />
 
