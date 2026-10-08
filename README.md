@@ -22,11 +22,8 @@ Hi, I am Mayank Kumar | Java Full Stack Developer with 3+ years of experience<br
 
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
-</p>
 
-<h2>⚙️ GitHub Analytics</h2>
+<h2> GitHub Analytics</h2>
 
 <table align="center">
   <tr>
