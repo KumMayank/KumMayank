@@ -1,13 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
 
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hey!+I'm+Mayank+Kumar;Java+Full+Stack+Developer"
-  alt="Typing Animation"
-/>
-
-</div>
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="80%" alt="Mayank Kumar - Java Full Stack Developer"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%" />
 
