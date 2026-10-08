@@ -47,8 +47,8 @@
 
 <p align="center">
   <img
-    src="https://user-images.githubusercontent.com/74038190/212744275-1b7c0b7f-1b6f-4b8c-9c9f-5e8a8f1b0e2f.gif"
-    width="400"
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    width="450"
   />
 </p>
 
@@ -72,20 +72,16 @@
 
 ## 📫 Reach me:
 
-<p align="left">
-
 <a href="https://www.linkedin.com/in/mayank-kumar01">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/KumMayank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://x.com/MayankKr0">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-
-</p>
 
 ## Thank you :)
