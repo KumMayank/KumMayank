@@ -101,93 +101,6 @@ Hi, I'm **Mayank Kumar**, a **Java Full Stack Developer with 3+ years of experie
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🏗️ What I Build
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                Full Stack Applications              │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  Frontend                                           │
-│  React.js • Redux • JavaScript • Tailwind CSS      │
-│                       │                             │
-│                       ▼                             │
-│  API Layer                                          │
-│  REST APIs • Authentication • Authorization        │
-│                       │                             │
-│                       ▼                             │
-│  Backend                                            │
-│  Java • Spring Boot • Microservices                │
-│                       │                             │
-│             ┌─────────┴─────────┐                  │
-│             ▼                   ▼                  │
-│        Databases             Messaging             │
-│  MySQL • PostgreSQL       Kafka • Redis             │
-│  MongoDB                                           │
-│                                                     │
-│                       │                             │
-│                       ▼                             │
-│  Cloud & Infrastructure                            │
-│  AWS • Docker • Kubernetes • CI/CD                 │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 📌 Featured Areas
-
-### ☕ Java & Spring Boot
-
-* Core Java
-* OOP
-* Collections
-* Exception Handling
-* Multithreading
-* Java 8+
-* Spring IoC & Dependency Injection
-* Spring Boot
-* Spring MVC
-* Spring Data JPA
-* Hibernate
-* REST API Development
-
-### 🧩 Microservices
-
-* Service-to-service communication
-* API Gateway
-* Service Discovery
-* Configuration Management
-* Resilience & Fault Tolerance
-* Distributed Systems
-* Kafka-based communication
-* Dockerized services
-* Kubernetes deployment
-
-### ⚛️ React.js
-
-* Functional Components
-* Hooks
-* Context API
-* Redux / Redux Toolkit
-* React Query
-* REST API integration
-* Responsive UI
-* Performance optimization
-* Component-based architecture
-
-### ☁️ Cloud & DevOps
-
-* AWS
-* Docker
-* Kubernetes
-* CI/CD
-* GitHub Actions
-* Jenkins
-* Nginx
-* Containerized deployments
-
----
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 
@@ -219,77 +132,6 @@ Hi, I'm **Mayank Kumar**, a **Java Full Stack Developer with 3+ years of experie
 
 </p>
 
----
-
-## 🚀 Projects
-
-### 💬 Real-Time Chat Application
-
-**React.js • Node.js • Express.js • Socket.io • MongoDB**
-
-Real-time communication platform with instant messaging and WebSocket-based communication.
-
-### 📁 Google Drive Clone
-
-**React.js • Spring Boot • MySQL**
-
-Cloud-style file management application with frontend and Spring Boot backend integration.
-
-### 🏢 Enterprise Web Applications
-
-**React.js • Redux • REST APIs • AWS**
-
-Worked on enterprise applications involving responsive interfaces, role-based access, file management and API integration.
-
-### 🤖 AI / RAG Projects
-
-**LLM • RAG • Embeddings • Vector Databases • PostgreSQL/pgvector**
-
-Exploring modern AI application architectures including Retrieval-Augmented Generation, embeddings and vector search.
-
----
-
-## 🧠 Currently Learning
-
-```text
-Java
- └── Spring Boot
-      ├── Microservices
-      ├── Spring Cloud
-      ├── Kafka
-      ├── Redis
-      └── System Design
-
-Cloud
- ├── AWS
- ├── Docker
- ├── Kubernetes
- └── CI/CD
-
-AI
- ├── LLMs
- ├── RAG
- ├── Embeddings
- └── Vector Databases
-```
-
----
-
-## 🎯 Career Focus
-
-I'm interested in opportunities involving:
-
-* ☕ Java Backend Development
-* 🚀 Java Full Stack Development
-* 🌐 Spring Boot & Microservices
-* ⚛️ React.js
-* ☁️ AWS & Cloud Engineering
-* 🐳 Docker & Kubernetes
-* 📨 Kafka & Event-Driven Architecture
-* 🏗️ System Design
-* 🤖 AI / GenAI Application Development
-
----
 
 ## 🤝 Let's Connect
 
@@ -309,36 +151,6 @@ I'm interested in opportunities involving:
 
 </p>
 
----
-
-## 💬 Ask Me About
-
-```text
-Java
-Spring Boot
-Microservices
-React.js
-REST APIs
-MySQL
-PostgreSQL
-MongoDB
-Kafka
-Redis
-AWS
-Docker
-Kubernetes
-CI/CD
-System Design
-RAG & GenAI
-```
-
----
-
-## ⚡ Fun Fact
-
-> **Code → Learn → Build → Break → Debug → Improve → Repeat 🚀**
-
----
 
 <div align="center">
 
