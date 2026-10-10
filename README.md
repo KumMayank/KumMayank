@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0A66C2&height=180&section=header&text=Mayank%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=60" alt="Mayank Kumar banner" width="100%" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0A66C2&height=180&section=header&text=Mayank%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=60" alt="Mayank Kumar banner" width="100%" />  
 </p>
 
 <!-- Typing animation -->
